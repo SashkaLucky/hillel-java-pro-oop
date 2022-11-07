@@ -27,3 +27,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+.idea
+.git
+*.jar
+target/*
+vcs.xml

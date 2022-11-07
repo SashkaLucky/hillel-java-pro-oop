@@ -1,2 +1,4 @@
-package work;public class Employee {
+package work;
+
+public class Employee {
 }
